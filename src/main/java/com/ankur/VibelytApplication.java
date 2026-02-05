@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class ZoshSocialApplication {
+public class VibelytApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZoshSocialApplication.class, args);
+		SpringApplication.run(VibelytApplication.class, args);
 	}
 
 }
